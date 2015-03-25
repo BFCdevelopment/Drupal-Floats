@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".content img").each(function(){var t=$(this).css("float");$(this).addClass("img-"+t)})});
