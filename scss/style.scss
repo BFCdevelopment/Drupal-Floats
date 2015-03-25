@@ -1,0 +1,17 @@
+
+.row {
+	padding: 40px 0 40px 0;
+}
+
+img {
+	width: 340px;
+	height: 225px;
+}
+
+.image-one img, .image-three img {
+	float: left;
+}
+
+.image-two img {
+	float: right;
+}
